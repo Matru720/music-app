@@ -64,7 +64,7 @@ const ProfileScreen = () => {
         {/* --- User Info Header --- */}
         <View style={styles.userInfoHeader}>
           <Image
-            source={{ uri: "https://source.unsplash.com/150x150/?face,portrait" }} // Use a more specific query
+            source={{ uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIABtrqQy06cSJJs9ea08af2biqmWgMramGA&s" }} // Use a more specific query
             style={styles.avatar}
           />
           <Text style={styles.username}>{name}</Text>

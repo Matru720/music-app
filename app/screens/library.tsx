@@ -38,9 +38,9 @@ type LibraryItem = Song | Playlist;
 
 // --- Sample Data (Reduced for brevity in example) ---
 const savedSongs: Song[] = [
-  { id: "1", title: "Blinding Lights", artist: "The Weeknd", image: "https://source.unsplash.com/100x100/?music,neon" },
-  { id: "2", title: "Someone Like You", artist: "Adele", image: "https://source.unsplash.com/100x100/?piano,sad" },
-  { id: "3", title: "Save Your Tears", artist: "The Weeknd", image: "https://source.unsplash.com/100x100/?headphones,retro" },
+  { id: "1", title: "Blinding Lights", artist: "The Weeknd", image: "https://rukminim2.flixcart.com/image/850/1000/l01blow0/poster/2/w/z/medium-music-wallpaper-on-fine-art-paper-theme-images-hd-original-imagbx2phbqcnzym.jpeg?q=90&crop=false" },
+  { id: "2", title: "Someone Like You", artist: "Adele", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1kKWDCWRCNvaEzi222wwvPce0wtebiVajQ&s" },
+  { id: "3", title: "Save Your Tears", artist: "The Weeknd", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1kKWDCWRCNvaEzi222wwvPce0wtebiVajQ&s" },
   { id: "4", title: "Shape of You", artist: "Ed Sheeran", image: "https://source.unsplash.com/100x100/?guitar,pop" },
   { id: "5", title: "Levitating", artist: "Dua Lipa", image: "https://source.unsplash.com/100x100/?dj,disco" },
   // ... more songs
